@@ -1,0 +1,11 @@
+{
+  "name": "integration-example-github-actions-nodejs",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "build": "node index.js"
+  },
+  "dependencies": {
+    "dotenv-vault-core": "latest"
+  }
+}
